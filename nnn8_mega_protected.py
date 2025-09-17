@@ -247,3 +247,4 @@ if chon == '9.2' :
    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/May-bay/main/1.py').text)   
 else :
      exit()
+
